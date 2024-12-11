@@ -1,0 +1,120 @@
+Uri: https://getmodsapk.com/assets/images/google-play-min.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\google-play-min.png
+Content Type: image/png
+
+Uri: https://getmodsapk.com/telegram-mod-apk/
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\telegram-mod-apk\index.htm
+Content Type: text/html
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/android-icon-192x192.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\android-icon-192x192.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-114x114.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-120x120.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-144x144.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-144x144.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-152x152.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-152x152.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-180x180.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-180x180.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-57x57.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-60x60.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-72x72.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/apple-icon-76x76.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/favicon-16x16.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\favicon-16x16.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/favicon-32x32.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\favicon-32x32.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/images/logo/favicon/favicon-96x96.png
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\images\logo\favicon\favicon-96x96.png
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/assets/js/bundle.min.js?=v1.2.3
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\assets\js\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.getmodsapk.com/uploads/1e77ef456f9c0259048ca61eea2dbc82.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\1e77ef456f9c0259048ca61eea2dbc82.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/91fb5de35a85e2f49d8af2df5df9a587.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\91fb5de35a85e2f49d8af2df5df9a587.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/9ada5dae2fe7efacbe877a832e83ad7b.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\9ada5dae2fe7efacbe877a832e83ad7b.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/DroidCam OBS MOD APK (1)9.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\DroidCam OBS MOD APK (1)9.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/GETMODSAPK-ICON-DARK.svg
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\GETMODSAPK-ICON-DARK.svg
+Content Type: image/svg+xml
+
+Uri: https://static.getmodsapk.com/uploads/GETMODSAPK-ICON.svg
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\GETMODSAPK-ICON.svg
+Content Type: image/svg+xml
+
+Uri: https://static.getmodsapk.com/uploads/MacroDroid MOD APK (1)5.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\MacroDroid MOD APK (1)5.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/Mimo MOD APK (1)3.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\Mimo MOD APK (1)3.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/Pocket FM mod apk8.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\Pocket FM mod apk8.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/Remodel AI MOD APK (1)9.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\Remodel AI MOD APK (1)9.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/RESSO Premium MOD APK (1)0.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\RESSO Premium MOD APK (1)0.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/Telegram mod apk3.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\Telegram mod apk3.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/VivaCut mod apk5.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\VivaCut mod apk5.webp
+Content Type: image/webp
+
+Uri: https://static.getmodsapk.com/uploads/WEBTOON MOD APK0.webp
+File Name: C:\Users\webse\Documents\httrack\getmodsapk.com\uploads\WEBTOON MOD APK0.webp
+Content Type: image/webp
+
