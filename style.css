@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2vh;
+}
+
+.logo {
+    max-width: 80vw; /* Responsive width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 2vh 0;
+}
+
+.app-logo {
+    max-width: 20vw; /* Responsive app logo */
+    height: auto;
+    margin: 3vh 0;
+}
+
+caption {
+    margin-bottom: 2vh;
+    font-size: 2.5vh;
+}
+
+.buttons {
+    display: flex;
+    gap: 2vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2vh 0;
+}
+
+.buttons a {
+    text-decoration: none;
+    padding: 1.5vh 2vw;
+    border-radius: 1vw;
+    font-size: 2vh;
+    transition: all 0.3s;
+}
+
+.download {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.download:hover {
+    background-color: #45a049;
+}
+
+.mirror {
+    background-color: #008CBA;
+    color: #fff;
+}
+
+.mirror:hover {
+    background-color: #007bb5;
+}
+
+.back {
+    background-color: #444;
+    color: #fff;
+}
+
+.back:hover {
+    background-color: #666;
+}
+
+/* Table Styles */
+table {
+    width: 90vw;
+    margin: 2vh 0;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 1.5vh 2vw;
+    border: 0.1vw solid #fff;
+    text-align: left;
+    font-size: 2vh;
+}
+
+th {
+    background-color: #333;
+}
+
+tr:nth-child(even) {
+    background-color: #444;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #222;
+    color: #fff;
+    width: 100vw;
+    text-align: center;
+    padding: 2vh;
+    margin-top: 5vh;
+    position: relative;
+    border-radius: 1vw;
+    font-size: 2vh;
+}
+
+@media (max-width: 600px) {
+    .logo {
+        max-width: 90vw; /* Adjust logo for small screens */
+    }
+
+    .app-logo {
+        max-width: 30vw; /* Adjust app logo size */
+    }
+
+    .buttons a {
+        font-size: 1.8vh;
+        padding: 1vh 1.5vw;
+    }
+
+    th, td {
+        font-size: 1.8vh;
+        padding: 1vh 1vw;
+    }
+    .slider-nav {
+        display: none; /* Hide navigation buttons on small screens */
+    }
+}
+
+/* Image Slider */
+.slider {
+    width: 90vw;
+    margin: 4vh 0;
+    overflow: hidden;
+}
+
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slides img {
+    width: 90vw;
+    border-radius: 1vw;
+}
+
+.slider-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+.slider-nav button {
+    background-color: #444;
+    border: none;
+    color: #fff;
+    padding: 1vh 2vw;
+    margin: 0 1vw;
+    border-radius: 1vw;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.slider-nav button:hover {
+    background-color: #666;
+}

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CapCut</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="logo">
+        <a href="index.html"><img src="devmodroid-logo_jpeg.jpg" alt="Logo" style="width: 100%;"></a>
+    </div>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/capcut-icon.png"
+        alt="CapCut Logo" class="app-logo">
+    <h1 style="font-size: 4vh;">CapCut</h1>
+    <p style="font-size: 2.5vh;">CapCut is a versatile video editing app with powerful tools to create stunning videos
+        easily.</p>
+
+    <!-- Specifications Table -->
+    <table>
+        <caption><strong>App Specifications</strong></caption>
+        <tr>
+            <th>Specification</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>Category</td>
+            <td>Video Editing</td>
+        </tr>
+        <tr>
+            <td>Platform</td>
+            <td>Android, iOS</td>
+        </tr>
+        <tr>
+            <td>File Size</td>
+            <td>200 MB</td>
+        </tr>
+        <tr>
+            <td>Developer</td>
+            <td>Bytedance</td>
+        </tr>
+        <tr>
+            <td>Rating</td>
+            <td>4.6 / 5</td>
+        </tr>
+    </table>
+
+    <div class="buttons">
+        <a href="#" class="download" id="downloadButton1">Download 1</a>
+        <a href="#" class="download" id="downloadButton2">Download 2</a>
+        <a href="#" class="mirror" id="mirrorButton">Mirror Link</a>
+        <a href="index.html" class="back">Back to Home</a>
+    </div>
+
+    <!-- Image Slider -->
+    <div class="slider">
+        <div class="slides" id="slides">
+            <img src="https://nerdschalk.com/content/images/wp-content/uploads/2022/03/blur-your-background-on-capcut-23-a.png"
+                alt="Screenshot 1">
+            <img src="https://nerdschalk.com/content/images/wp-content/uploads/2022/03/blur-your-background-on-capcut-19-a.png"
+                alt="Screenshot 2">
+            <img src="https://play-lh.googleusercontent.com/GgW6gDUfi7hG84rOqw9AurqsVYE-W-cz0wbloUdUWULbT8UhSgelnsN0Ihm1l-EbXw=w526-h296-rw"
+                alt="Screenshot 3">
+        </div>
+        <div class="slider-nav">
+            <button onclick="prevSlide()">Prev</button>
+            <button onclick="nextSlide()">Next</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; Devmodroid. All rights reserved.</p>
+    </footer>
+
+    <script src="main.js"></script>
+
+    <script>
+        // Disable other buttons and make them unclickable when one button is clicked
+        function addDownloadTimer(button, url, allButtons) {
+            button.addEventListener('click', function (event) {
+                event.preventDefault();
+                let timer = 10; // 10 second timer
+                button.textContent = `Wait ${timer} seconds`;
+
+                // Disable all other buttons and make them unclickable
+                allButtons.forEach(btn => {
+                    if (btn !== button) {
+                        btn.disabled = true;
+                        btn.style.cursor = 'not-allowed'; // Change cursor style for disabled buttons
+                        btn.style.pointerEvents = 'none'; // Prevent clicks on the disabled button
+                    }
+                });
+
+                const countdown = setInterval(() => {
+                    timer--;
+                    button.textContent = `Wait ${timer} seconds`;
+                    if (timer === 0) {
+                        clearInterval(countdown);
+                        window.location.href = url; // Replace with your download link
+                    }
+                }, 1000);
+            });
+        }
+
+        const downloadButton1 = document.getElementById('downloadButton1');
+        const downloadButton2 = document.getElementById('downloadButton2');
+        const mirrorButton = document.getElementById('mirrorButton');
+
+        // Call addDownloadTimer function with all buttons passed as an array
+        addDownloadTimer(downloadButton1, 'https://zippyshare.day/wUp9pnEdwO5hO2f/file', [downloadButton1, downloadButton2, mirrorButton]);
+        addDownloadTimer(downloadButton2, 'https://zippyshare.day/wUp9pnEdwO5hO2f/file', [downloadButton1, downloadButton2, mirrorButton]);
+        addDownloadTimer(mirrorButton, 'https://example.com/mirror', [downloadButton1, downloadButton2, mirrorButton]);
+    </script>
+
+    
+
+</body>
+
+</html>
